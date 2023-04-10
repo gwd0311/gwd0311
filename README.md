@@ -1,16 +1,14 @@
 ### Hi there 👋
+- 대전에 거주하는 iOS 취업준비생
+- 한국우편사업진흥원 전자상거래지원센터 시스템 기획 (2019. 4. ~ 2022. 6.)
+- 네이버 커넥트재단 부스트캠프 7기 챌린지, 멤버십 수료 (2022. 7. ~ 2022. 12.)
 
-<!--
-**gwd0311/gwd0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills ⚒️
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Swift-fc3503?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-037ffc?style=flat&logo=Swift&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats 📈
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwd0311&show_icons=true&theme=radical)
+
+### BOJ 📝
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gwd0311)](https://solved.ac/gwd0311)<br/>
