@@ -6,4 +6,4 @@
 
 ### Skills ⚒️
 
-<img src="https://img.shields.io/badge/Swift-fc3503?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-037ffc?style=flat&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-fc3503?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-fc3103?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-037ffc?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-fc5303?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-ff9903?style=flat&logo=Firebase&logoColor=white"/> 
