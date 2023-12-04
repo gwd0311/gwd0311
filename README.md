@@ -10,6 +10,3 @@
 
 ### Stats 📈
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwd0311&show_icons=true&theme=radical)
-
-### BOJ 📝
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gwd0311)](https://solved.ac/gwd0311)<br/>
