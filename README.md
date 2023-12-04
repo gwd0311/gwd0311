@@ -7,6 +7,3 @@
 ### Skills ⚒️
 
 <img src="https://img.shields.io/badge/Swift-fc3503?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-037ffc?style=flat&logo=Swift&logoColor=white"/>
-
-### Stats 📈
-![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwd0311&show_icons=true&theme=radical)
